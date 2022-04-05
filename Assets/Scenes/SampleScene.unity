@@ -137,7 +137,7 @@ GameObject:
   - component: {fileID: 33175512}
   - component: {fileID: 33175511}
   - component: {fileID: 33175510}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Platforms_Tilemap
   m_TagString: Untagged
   m_Icon: {fileID: 0}
