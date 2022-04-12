@@ -18,7 +18,7 @@ GameObject:
   - component: {fileID: 8150254758232585317}
   m_Layer: 8
   m_Name: Donald (Player)
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -98,7 +98,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 913432519
-  m_SortingLayer: 7
+  m_SortingLayer: 8
   m_SortingOrder: 0
   m_Sprite: {fileID: 595604151, guid: a4ae5a7773b70534f9cfb9da05c488c8, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -193,7 +193,7 @@ MonoBehaviour:
   fltRunSpeed: 7
   fltJumpSpeed: 18
   fltClimbSpeed: 5
-  deathKick: {x: 20, y: 20}
+  deathKick: {x: 5, y: 20}
   bullet: {fileID: 7479982682926919892, guid: cbf4f836ef8a65a4a8b6bf3e6ed26230, type: 3}
   gun: {fileID: 8023473088860290795}
 --- !u!61 &8150254758232585317
